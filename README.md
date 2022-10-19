@@ -24,6 +24,7 @@ My cheat sheet 📜 for the git/fork/branch workflow.
 12. `git push --delete origin <branch>`
 13. `git pull upstream master`
 14. `git push origin master`
+15. `git remote set-url origin "git@user-url.git"`
 
 ## 🆘 Get out of Jail, Free
 
